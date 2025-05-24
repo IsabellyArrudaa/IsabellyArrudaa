@@ -1,7 +1,8 @@
 ## **🩷  Isabelly Arruda**  
 
 👩‍💻 Estudante de **Tecnologia em Sistemas para Internet** 
-✨ Aprimorando habilidades em no mundo **de Desenvolvimento Web**
+
+✨ Aprimorando habilidades no mundo do **Desenvolvimento Web**
 
 ---
 ### **🚀 Stack Principal**  
